@@ -40,21 +40,6 @@ metrics such as **WPM**, **mistakes**, **accuracy**, and **time**.
 - **JavaScript (ES Modules)**
 - **Public Quotes API**
 - **Vercel** (Deployment)
-
----
-
-## 📂 Project Structure
-## 📂 Project Structure
-typizy/
-├── index.html
-├── style.css
-├── screenshot.png
-└── js/
-├── main.js
-├── api.js
-├── typing.js
-├── stats.js
-└── timer.js
   
 ---
 
