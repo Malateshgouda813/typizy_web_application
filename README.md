@@ -43,4 +43,32 @@ metrics such as **WPM**, **mistakes**, **accuracy**, and **time**.
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+typizy/
+├── index.html
+├── style.css
+├── screenshot.png
+└── js/
+├── main.js
+├── api.js
+├── typing.js
+├── stats.js
+└── timer.js
+  
+---
+
+## ⚙️ How It Works
+1. App fetches a random paragraph from the API
+2. User starts typing → timer begins
+3. Characters are compared in real time
+4. WPM, mistakes, and accuracy are calculated dynamically
+5. Restart resets everything with a new paragraph
+
+---
+
+## 🧪 Run Locally
+```bash
+git clone https://github.com/Malateshgouda813/typizy.git
+cd typizy
+
 
