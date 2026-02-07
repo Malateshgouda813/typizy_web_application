@@ -16,8 +16,9 @@ metrics such as **WPM**, **mistakes**, **accuracy**, and **time**.
 
 ## 📸 Screenshot
 ![Typizy Screenshot](https://github.com/Malateshgouda813/typizy_web_application/blob/e102679dbb1994c1a9afdb30cc097523b8f9b2ef/Screenshot%20(361).png)
+![Typizy_Screenshot](https://github.com/Malateshgouda813/typizy_web_application/blob/227e93451e3950f17be30d0d5a9e9e259856203e/Screenshot%20(362).png).
 
-> Tip: Rename your image to `screenshot.png` and place it in the root folder.
+
 
 ---
 
