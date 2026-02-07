@@ -36,8 +36,8 @@ VERCEL deployed link:   https://typizywebapplication.vercel.app
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5**
-- **CSS3** (animations & responsive layout)
+- **HTML**
+- **CSS** (animations & responsive layout)
 - **JavaScript (ES Modules)**
 - **Public Quotes API**
 - **Vercel** (Deployment)
