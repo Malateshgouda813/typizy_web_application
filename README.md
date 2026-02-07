@@ -9,8 +9,9 @@ metrics such as **WPM**, **mistakes**, **accuracy**, and **time**.
 
 ---
 
-## 🚀 Live Demo
-👉 https://typizy.vercel.app
+# Live Demo
+VERCEL deployed link:   https://typizywebapplication.vercel.app
+
 
 ---
 
